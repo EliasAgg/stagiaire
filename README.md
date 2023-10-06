@@ -1,0 +1,2 @@
+# stagiaire
+Pratique de git
